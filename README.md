@@ -14,7 +14,7 @@ python setup.py develop
 
 ## How To Test
 - Refer to `./options/test` for the configuration file of the model to be tested, and prepare the testing data and pretrained model.  
-- he pretrained models are available at [Baidu Netdisk](https://pan.baidu.com/s/15_zTnP_fNSZPGhnnlymRug) (access code: gykc).  
+- The pretrained models are available at [Baidu Netdisk](https://pan.baidu.com/s/15_zTnP_fNSZPGhnnlymRug) (access code: gykc).  
 ```
 sh demo.sh
 ```
